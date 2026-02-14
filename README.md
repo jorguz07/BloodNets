@@ -1,4 +1,4 @@
-# Modeling of Adaptive Transport Networks in Biology (ongoing)
+# Modeling of Adaptive Transport Networks in Biology 🩸🕸️ (ongoing)
 
 ODE model and numerical simulation of networks system that carry materials and adapt their structure. The goals is to justify the typical 'branching tree' shape of vascular systems in plants and animals in terms of biological principles.
 
@@ -6,7 +6,7 @@ ODE model and numerical simulation of networks system that carry materials and a
 
 ## Overview 📌
 
-- Research shows that the typical 'braching tree' structure of vascualar systems is highly energy efficient and damage resilient (#add sources). However, the *process* bringing up this specific shape is debated. In (this article)[https://doi.org/10.1103/PhysRevLett.111.138701] the authors show how such a structure can be a direct consecuence of wall shear stress adaptation in vessels and energy optimization
+- Research shows that the typical 'braching tree' structure of vascualar systems is highly energy efficient and damage resilient (#add sources). However, the *process* bringing up this specific shape is debated. In [this article](https://doi.org/10.1103/PhysRevLett.111.138701) the authors show how such a structure can be a direct consecuence of wall shear stress adaptation in vessels and energy optimization
 - We aim to implement their numerical solution and reproduce their figures using the `NetworkX` Python library
 
 ---
