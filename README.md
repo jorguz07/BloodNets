@@ -4,14 +4,14 @@ ODE model and numerical simulation of networks system that carry materials and a
 
 ---
 
-## Overview 📌
+## Overview
 
 - Research shows that the typical 'braching tree' structure of vascualar systems is highly energy efficient and damage resilient (#add sources). However, the *process* bringing up this specific shape is debated. In [this article](https://doi.org/10.1103/PhysRevLett.111.138701) the authors show how such a structure can be a direct consecuence of wall shear stress adaptation in vessels and energy optimization
 - We aim to implement their numerical solution and reproduce their figures using the `NetworkX` Python library
 
 ---
 
-## System's description 📊
+## System's description
 
 - We start with a fine grid representing the possible places a vessel can take. Nodes stand for random flow sources and sinks.
 - An ODE system for the blood flow based on convention (#add source) and a novel penalty term describes the dynamics.
@@ -19,7 +19,7 @@ ODE model and numerical simulation of networks system that carry materials and a
 
 ---
 
-## Methods ⚙️
+## Methods
 
 - Modeling approaches
 - Algorithms used
@@ -28,7 +28,7 @@ ODE model and numerical simulation of networks system that carry materials and a
 
 ---
 
-## Project Structure 📁
+## Project Structure
 
 ```text
 project/
